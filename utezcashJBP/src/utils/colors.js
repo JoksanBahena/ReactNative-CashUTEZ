@@ -2,6 +2,6 @@
 // VERDE = "#1Cac85"
 
 export default {
-    C_PRIMARIO: "#038C65",
-    C_PRIMARIO_OBSCURO: "#023059"
-}
+  C_PRIMARIO: "#038C65",
+  C_PRIMARIO_OBSCURO: "#023059",
+};
